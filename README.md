@@ -11,6 +11,7 @@ cipher game with de1-soc board features
 ![image](https://user-images.githubusercontent.com/84313518/166336300-fa9efbe1-c95e-4273-9829-da0c84517cf5.png)
 
 6. drag to PS2/keyboard or connect to your ps2 keyboard in fpga
+
 ![image](https://user-images.githubusercontent.com/84313518/166336367-d0611bf6-16d9-4424-9787-6fe3e89137ad.png)
 
 7. enjoy playing!
