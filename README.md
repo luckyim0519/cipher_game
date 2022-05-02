@@ -8,6 +8,7 @@ cipher game with de1-soc board features
 3. change the language format into C
 4. copy and paste the finalproject.c 
 5. press compile f5 -> continue f3
+
 ![image](https://user-images.githubusercontent.com/84313518/166336300-fa9efbe1-c95e-4273-9829-da0c84517cf5.png)
 
 6. drag to PS2/keyboard or connect to your ps2 keyboard in fpga
